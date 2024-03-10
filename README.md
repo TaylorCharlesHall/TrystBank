@@ -1,4 +1,4 @@
-<img src="bankclip.jpg" width='100' height='100'/>
+<img src="bankclip.JPG" width='100' height='100'/>
 
 # Tryst Bank
 Simulates the functionality of a basic bank application. 
