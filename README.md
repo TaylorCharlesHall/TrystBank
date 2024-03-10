@@ -1,7 +1,7 @@
 <img src="bankclip.JPG" width='100' height='100'/>
 
 # Tryst Bank
-Simulates the functionality of a basic bank application. 
+Simulates the functionality of a basic bank application frontend with backend. 
 ### Details
 This was the final MITxPro course project. It allows the given account user to deposit, withdraw, and display their balance.
 ### Potential Improvements
